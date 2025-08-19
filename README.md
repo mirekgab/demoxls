@@ -31,3 +31,5 @@ cd demoxls/
 ```shell
 java -jar target/demoxls-0.0.1-SNAPSHOT.jar
 ```
+
+W repozytorium znajduje się przykładowy plik arkusz.xlsx.
